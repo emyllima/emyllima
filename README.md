@@ -1,8 +1,8 @@
 ### Olá! 👋
 
-- 🔭 Estudante de Programação e me graduando em Arquitetura e Urbanismo.
-- 🌱 Estou aprendendo as linguagens de back-end e front-end.
-- 👩🏻‍💻Java, MySql, HTML, CSS, Javascript, e JQuery.
+- 👩🏻‍🎓 Estudante de Programação e me graduando em Arquitetura e Urbanismo.
+- 👩🏻‍💻 Estou aprendendo as linguagens de back-end e front-end.
+ Java, MySql, HTML, CSS, Javascript, e JQuery.
 
 <div align="center">
   <a href="https://github.com/emyllima">
@@ -21,7 +21,7 @@
   
   ##
  
-<div align="center> 
+<div> 
   <a href="https://www.instagram.com/m.limarts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emylli-lima-6477841b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
