@@ -2,7 +2,7 @@
 
 - 👩🏻‍🎓 Estudante de Programação e me graduando em Arquitetura e Urbanismo.
 - 👩🏻‍💻 Estou aprendendo as linguagens de back-end e front-end.
- Java, MySql, HTML, CSS, Javascript, e JQuery.
+ Java, C#, MySql, HTML, CSS, Javascript, e JQuery.
 
 <div align="center">
   <a href="https://github.com/emyllima">
@@ -11,6 +11,7 @@
 </div align="center>
   <div style="display: inline_block"><br>
     <img align="center" alt="Emy-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Emy-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Emy-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Emy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
