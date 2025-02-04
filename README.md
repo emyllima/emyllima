@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 👩🏻‍🎓 Estudante de Programação e me graduando em Arquitetura e Urbanismo.
+- 👩🏻‍🎓 Estudante de Programação C# no Entra21 e me pós graduando em Ux Design e também formada em Arquitetura.
 - 👩🏻‍💻 Estou aprendendo as linguagens de back-end e front-end.
  Java, C#, MySql, HTML, CSS, Javascript, e JQuery.
 
